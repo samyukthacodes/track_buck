@@ -11,7 +11,7 @@ import plotly.express as px
 
 categories = ['Shopping', 'Groceries', 'Dining out','Housing', 'Transport', 'Entertainment', 'Gifts', 'Bills', 'Other']
 currencies = ['INR' , 'USD']
-page_title = "Trace bucks"
+page_title = "Track bucks"
 page_icon = ":money_with_wings:"
 layout = 'centered'
 
